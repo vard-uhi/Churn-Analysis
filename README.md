@@ -1,6 +1,4 @@
-# Churn Analysis
-
-# Figuring Our Which Customers May Leave - Churn Analysis
+# Figuring Our Which Customers May Leave - Churn Prediction
 
 ### About our Dataset
 Source - https://www.kaggle.com/blastchar/telco-customer-churn
